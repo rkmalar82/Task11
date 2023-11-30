@@ -1,0 +1,5 @@
+git init
+
+git add myscript.sh
+
+git commit -m "Initial commit"
